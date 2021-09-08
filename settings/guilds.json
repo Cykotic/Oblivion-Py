@@ -1,0 +1,105 @@
+[
+    {
+        "id": 738711653805195371,
+        "owner": 653302412039421965,
+        "admins": [],
+        "badwords": [
+            "ddos",
+            "loool",
+            "loooloo",
+            "hurensohn",
+            "fuuuuuck"
+        ],
+        "enabled": 1,
+        "logs": 1,
+        "joined": "2020-07-31 13:28:45"
+    },
+    {
+        "id": 630502470904184833,
+        "owner": 606955037863968771,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 0
+    },
+    {
+        "id": 726744748378816524,
+        "owner": 606955037863968771,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 1
+    },
+    {
+        "id": 488256667620868110,
+        "owner": 606955037863968771,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 1
+    },
+    {
+        "id": 561017171682263040,
+        "owner": 606955037863968771,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 1
+    },
+    {
+        "id": 592484063135399946,
+        "owner": 606955037863968771,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 1
+    },
+    {
+        "id": 741306951404617768,
+        "owner": 606955037863968771,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 1
+    },
+    {
+        "id": 743219876084318210,
+        "owner": 606955037863968771,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 1
+    },
+    {
+        "id": 695413743525429259,
+        "owner": 253986575682109441,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 1
+    },
+    {
+        "id": 778813818612613120,
+        "owner": 253986575682109441,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 1
+    },
+    {
+        "id": 791698242865725440,
+        "owner": 253986575682109441,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 1
+    },
+    {
+        "id": 798402244181098546,
+        "owner": 253986575682109441,
+        "admins": [],
+        "badwords": [],
+        "enabled": 1,
+        "logs": 1
+    }
+]
